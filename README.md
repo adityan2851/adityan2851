@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adityan B</h1>
 <h3 align="center">A passionate frontend developer and Designer</h3>
 
-- 🌱 I’m currently learning **Flutter, Python**
+- 🌱 I’m currently learning **Angular, Java**
 
 - 📫 How to reach me **adhi2851@gmail.com**
 

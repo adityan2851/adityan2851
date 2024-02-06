@@ -1,3 +1,4 @@
+![Adityan](https://media.licdn.com/dms/image/D5616AQF2_HvaXeZk-g/profile-displaybackgroundimage-shrink_350_1400/0/1707229276813?e=1712793600&v=beta&t=CH8Xy3NE53LwcuQy0elFlfCdd_w7htjWapsjuL1wpAA)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adhik_pic_tograpahy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityan-balamuralidharan-6b2a35183/) 
